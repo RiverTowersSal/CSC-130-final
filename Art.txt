@@ -1,0 +1,8 @@
+Art/f.png*f0
+Art/drawbear.png*bear1
+Art/drawbear_low.png*bear2
+Art/drawbear_high.png*bear4
+Art/drawbear_passing.png*bear3
+Art/drawbear_up.png*bear5
+Art/drawbear_down.png*bear6
+Art//Final_project_background.png*background
